@@ -1,15 +1,17 @@
 {
-  "name": "@sermons/reveal-skel",
-  "repository": "sermons/reveal-skel",
-  "description": "A template for Reveal.js-based presentations",
+  "name": "@sermons/known",
+  "repository": "sermons/known",
+  "description": "Lk13:22-30 To Know and Be Known",
   "keywords": [
-    "slides"
+    "slides",
+    "sermon",
+    "luke"
   ],
   "version": "1.7.4",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
-    "pretty_url": "reveal-skel.seanho.com",
-    "cname": "reveal-skel.seanho.com",
+    "pretty_url": "known.seanho.com",
+    "cname": "known.seanho.com",
     "multiplex": {
       "url": "https://mp.seanho.com/",
       "id": "22bc761ffc97809b"
@@ -27,7 +29,7 @@
       }
     ],
     "slides": [
-      "slides/sample.md"
+      "slides/slides.md"
     ],
     "reveal": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0",
     "mathjax": "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js",
