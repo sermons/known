@@ -12,3 +12,4 @@
   + less emphasis, punt to next time (banquet)
   + is 28, rest + repentance
 + 1Cor13 fully known
++ strive (agony): 1co9:25 control self
