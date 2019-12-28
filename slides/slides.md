@@ -20,3 +20,6 @@
 + Mt: do will of Father
   + what is will: to believe in one He sent
   + faith in action
++ showing mercy:
+  + 13:10-17 daughter of Abraham
+  + 14:1-6 rescue cow on Sabbath
