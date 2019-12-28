@@ -13,3 +13,10 @@
   + is 28, rest + repentance
 + 1Cor13 fully known
 + strive (agony): 1co9:25 control self
++ outline:
+  + 22-24 those who seek to enter
+  + 25-27 call/response: don't know you, where from, evildoers
+  + 28-30 looking in from the outside
++ Mt: do will of Father
+  + what is will: to believe in one He sent
+  + faith in action
