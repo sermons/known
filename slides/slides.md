@@ -111,6 +111,8 @@ and will not be **able**.
 
 >>>
 + strive (agony): 1co9:25 control self
++ seek (zeal): desire, consumed by
++ able (strong): unable to overcome
 
 ---
 Enter by the **narrow gate**. 
@@ -143,6 +145,11 @@ then he will answer you, <br>
 ‘I do not **know** where you come from.’
 
 [Luke 13:25 (ESV)](# "ref")
+
+>>>
++ lord of house
++ shut (locked): for the night
++ begin: implied lengthy duration
 
 ---
 Then you will begin to say, <br>
