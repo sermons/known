@@ -1,5 +1,5 @@
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
-# To Know and Be Known
+# To Know and <br> Be Known
 ## Luke 13:22-30
 
 >>>
@@ -26,7 +26,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-## Who will enter the **kingdom of God**?
+# Who will enter the **kingdom of God**?
 
 ******
 [22](# "ref")
@@ -40,30 +40,42 @@ And someone said to him, <br>
 And he said to them, <br>
 [24](# "ref")
 “Strive to enter through the narrow door. <br>
-For many, I tell you, will seek to enter and will not be able.
+For many, I tell you, will seek to enter <br>
+and will not be able.
 
 ******
 [25](# "ref")
-When once the master of the house has risen and shut the door, <br>
-and you begin to stand outside and to knock at the door, <br>
-saying, ‘Lord, open to us,’ <br>
-then he will answer you, ‘I do not know where you come from.’
+When once the master of the house <br>
+has risen and shut the door,
 
+and you begin to stand outside <br>
+and to knock at the door, saying, ‘Lord, open to us,’
+
+then he will answer you, <br>
+‘I do not know where you come from.’
+
+******
 [26](# "ref")
 Then you will begin to say, <br>
-‘We ate and drank in your presence, and you taught in our streets.’
+‘We ate and drank in your presence, <br>
+and you taught in our streets.’
 
 [27](# "ref")
-But he will say, ‘I tell you, I do not know where you come from. <br>
+But he will say, <br>
+‘I tell you, I do not know where you come from. <br>
 Depart from me, all you workers of evil!’
 
 ******
 [28](# "ref")
-In that place there will be weeping and gnashing of teeth, <br>
+In that place there will be <br>
+weeping and gnashing of teeth,
+
 when you see Abraham and Isaac and Jacob <br>
-and all the prophets in the kingdom of God <br>
+and all the prophets in the kingdom of God
+
 but you yourselves cast out.
 
+******
 [29](# "ref")
 And people will come from east and west, <br>
 and from north and south, <br>
