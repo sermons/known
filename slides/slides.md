@@ -217,7 +217,7 @@ and will not be able.
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I **agonise** over salvation, <br> or take it for **granted**?
+# Do I **agonise** over my salvation, <br> or take it for **granted**?
 
 >>>
 + not just **trying** harder
