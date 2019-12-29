@@ -468,6 +468,9 @@ and some are **first** who will be **last**.”
 [Iceland. Davide Cantelli](https://unsplash.com/photos/H3giJcTw__w "caption")
 
 >>>
++ **examine** self: e.g. before **communion**
+  + eat+drink bread+cup w/o recognizing **body+blood**
+  + eats+drinks **judgment** upon self
 + good or bad news? depends on our **position**
 
 ---
