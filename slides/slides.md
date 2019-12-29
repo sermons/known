@@ -4,7 +4,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Who will enter the **kingdom of God**?
+# Who will enter the **kingdom** of God?
 
 ******
 [22](# "ref")
@@ -188,7 +188,9 @@ who **does the will** of my **Father** who is in heaven.
   + 14:1-6 rescue cow on Sabbath
 
 ---
-For now we see in a mirror **dimly**, but then **face to face**. <br>
+For now we see in a mirror **dimly**, <br>
+but then **face to face**.
+
 Now I know in **part**; then I shall know **fully**, <br>
 even as I have been **fully known**.
 
@@ -225,10 +227,12 @@ and some are **first** who will be **last**.”
 + good or bad news? depends on our position
 
 ---
-"God **opposes** the proud but gives **grace** to the humble."
+"God **opposes** the proud <br>
+but gives **grace** to the humble."
 
 [10](# "ref")
-**Humble** yourselves before the Lord, and he will **exalt** you.
+**Humble** yourselves before the Lord, <br>
+and he will **exalt** you.
 
 [James 4:6,10 (ESV)](# "ref")
 
