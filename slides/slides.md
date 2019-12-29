@@ -4,7 +4,7 @@
 [Daniel von Appen](https://unsplash.com/photos/NVnU0WIhC28 "caption")
 
 >>>
-+ **cute** story this week about Princess Charlotte
++ **cute** story this week about [Princess Charlotte](https://www.mirror.co.uk/news/uk-news/cheeky-princess-charlotte-refuses-hand-21162838)
   + 4yo daughter of Prince William + Duchess Kate
 + given a bouquet of **roses** by 6yo boy
   + refused to **hand over** to royal aide
@@ -17,7 +17,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Who will enter the **kingdom** of God?
+# How do I **know** I am saved?
 
 >>>
 + it's one thing to **know** who God is
@@ -93,9 +93,9 @@ and some are first who will be last.”
 ---
 <!-- .slide: <%= bg("unsplash-NVnU0WIhC28-door_detail.jpg") %> class="outline" id="outline" -->
 ## To Know and Be Known [(Lk13)](# "ref")
-1. Seeking to Enter [(v22-24)](# "ref")
-1. Known by the Master [(v25-27)](# "ref")
-1. Looking In from the Outside [(v28-30)](# "ref")
+1. **Seeking** to Enter [(v22-24)](# "ref")
+1. **Known** by the Master [(v25-27)](# "ref")
+1. Looking In from the **Outside** [(v28-30)](# "ref")
 
 >>>
 1. audience
@@ -226,14 +226,18 @@ and will not be able.
   + w/attitude of **obedience**
 
 ---
-## outline 2
+<!-- .slide: <%= bg("unsplash-NVnU0WIhC28-door_detail.jpg") %> class="outline" -->
+## To Know and Be Known [(Lk13)](# "ref")
+1. Seeking to Enter [(v22-24)](# "ref")
+1. **Known by the Master** [(v25-27)](# "ref")
+1. Looking In from the Outside [(v28-30)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-Y05TMi8ZFHA-blue_door.jpg") %> -->
 When once the **master of the house** <br>
 has risen and **shut** the door,
 
-and you begin to stand **outside** <br>
+and you begin to **stand** outside <br>
 and to **knock** at the door, saying, ‘Lord, open to us,’
 
 then he will answer you, <br>
@@ -251,19 +255,20 @@ then he will answer you, <br>
 + what was the **nature** of the relationship?
 
 ---
-<!-- .slide: <%= bg("unsplash-tAH2cA_BL5g-wine_friends.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-c333d6YEhi0-bible.jpg") %> -->
 Then you will begin to say, <br>
 ‘We **ate and drank** in your presence, <br>
 and you **taught** in our streets.’
 
 [Luke 13:26 (ESV)](# "ref")
-[Kelsey Chance](https://unsplash.com/photos/tAH2cA_BL5g "caption")
+[Aaron Burden](https://unsplash.com/photos/c333d6YEhi0 "caption")
 
 >>>
 + **enjoyed** blessings from God
   + He **provides** abundantly for our needs
 + **read** Bible, listen to sermons
   + **passive**, received from God
++ God **blesses** us, so He must be **pleased** with us?
 + Mt7 goes even **further**:
 
 ---
@@ -281,7 +286,9 @@ and do many **mighty works** in your name?’
 + demons: acts of **healing**, counselling
   + **service**, volunteering
 + perform **miracles** in Jesus' name
-+ God **acted**, so He must be **pleased** with us?
+  + not just from **own** strength
++ God **answered** our prayers,
+  + so He must be **pleased** with us?
 
 ---
 <!-- .slide: <%= bg("unsplash-xCdFXXoZkJc-dark_sky.jpg") %> -->
@@ -302,6 +309,14 @@ Depart from me, all you **workers of evil**!’
 
 >>>
 + "know **you**, where you come from"
++ forgotten that Jesus is a **person**
+  + not a **vending machine** of blessing
+  + not a **cosmic power** I can wield
++ discipleship means **following** Christ
+  + pursuing the **relationship**
++ without that, all my acts of **service**
+  + become acts of **evil**
++ parallel passage in **Mt7**:
 
 ---
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
@@ -313,14 +328,13 @@ who **does the will** of my **Father** who is in heaven.
 [Montreal, CA. Marc-Olivier Jodoin](https://unsplash.com/photos/TStNU7H4UEE "caption")
 
 >>>
-+ **obedient**, humble heart
-+ showing **mercy**:
-  + 13:10-17 daughter of Abraham
-  + 14:1-6 rescue cow on Sabbath
-+ sounds like a lot of **work**?
++ but what is God's **will**?
+  + I **pray**, ask A vs B
+  + God doesn't **answer** me
++ what **work** does God want me to do?
 
 ---
-<!-- .slide: <%= bg("unsplash--wT0iS-TSZM-Anterne_cross.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-WJkc3xZjSXw-trees_overhead.jpg") %> -->
 Do not **work** for the food that perishes, <br>
 but for the food that endures to **eternal life**, <br>
 which the **Son of Man** will give to you. <br>
@@ -335,14 +349,18 @@ Jesus answered them, “This is the work of God, <br>
 that you **believe** in him whom he has **sent**.”
 
 [John 6:27-29 (ESV)](# "ref")
-[Lac d'Anterne, France.  Hugues de Buyer-Mimeure](https://unsplash.com/photos/-wT0iS-TSZM "caption")
+[Geran de Klerk, Gävle, Sweden](https://unsplash.com/photos/WJkc3xZjSXw "caption")
 
 >>>
-+ **work of God**: 
-+ **faith** in action
++ ok so we just **believe** in Jesus, and that's it?
+  + **faith** in action
++ showing **mercy**:
+  + 13:10-17 daughter of Abraham
+  + 14:1-6 rescue cow on Sabbath
++ **obedience**, full **submission** to Christ
 
 ---
-<!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
+<!-- .slide: <%= bg("unsplash--wT0iS-TSZM-Anterne_cross.jpg") %> -->
 If anyone wishes to **come after** Me, <br>
 he must **deny** himself, <br>
 and take up his **cross** daily and **follow** Me. 
@@ -353,7 +371,7 @@ but whoever **loses** his life for **My sake**, <br>
 he is the one who will **save** it. 
 
 [Luke 9:23-24 (ESV)](# "ref")
-[Aaron Burden](https://unsplash.com/photos/09AhDCedXF8 "caption")
+[Lac d'Anterne, France.  Hugues de Buyer-Mimeure](https://unsplash.com/photos/-wT0iS-TSZM "caption")
 
 >>>
 
@@ -374,7 +392,14 @@ even as I have been **fully known**.
 # Q2
 
 ---
-## outline 3
+<!-- .slide: <%= bg("unsplash-NVnU0WIhC28-door_detail.jpg") %> class="outline" -->
+## To Know and Be Known [(Lk13)](# "ref")
+1. Seeking to Enter [(v22-24)](# "ref")
+1. Known by the Master [(v25-27)](# "ref")
+1. **Looking In from the Outside** [(v28-30)](# "ref")
+
+>>>
++ **severity** of the consequences
 
 ---
 <!-- .slide: <%= bg("unsplash-mKA3VavSuaI-dark_mtns.jpg") %> -->
@@ -393,6 +418,12 @@ but you yourselves **cast out**.
 + gnashing (grinding): **despair**
   + from **finality** of judgment
   + and **regret** over lost opportunity
++ throughout this passage Jesus uses **2nd plural**
+  + not about **others**
++ not those who **reject** Christ
+  + and **get** exactly what they asked for
++ but those who **seek** to enter kingdom of God
+  + but never sought to be **known** by the Master
 
 ---
 <!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> -->
@@ -422,14 +453,16 @@ and he will **exalt** you.
 [James 4:6,10 (ESV)](# "ref")
 [Claudio Testa](https://unsplash.com/photos/FrlCwXwbwkk "caption")
 
+>>>
++ God **longs** to show **grace** to us
+  + we are the ones who **reject** it!
++ v34 **hen** under wings, but you **refused**:
+  + next time Lk14 **banquet**
+  + (Is 28, rest + repentance)
+
 ---
 <!-- .slide: data-background="white" -->
 # Q3
-
->>>
-+ v34 hen under wings, but you refused:
-  + less emphasis, punt to next time (banquet)
-  + is 28, rest + repentance
 
 ---
 <!-- .slide: <%= bg("unsplash-NVnU0WIhC28-door_detail.jpg") %> -->
