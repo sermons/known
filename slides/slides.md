@@ -3,9 +3,25 @@
 ## Luke 13:22-30
 [Daniel von Appen](https://unsplash.com/photos/NVnU0WIhC28 "caption")
 
+>>>
++ **cute** story this week about Princess Charlotte
+  + 4yo daughter of Prince William + Duchess Kate
++ given a bouquet of **roses** by 6yo boy
+  + refused to **hand over** to royal aide
++ royals / **celebrities** see so many people
+  + nice to be **acknowledged**
++ we know about **them**
+  + but they don't know who **we** are
++ it's one thing to take a **photo** of a royal
+  + it's another to be **recognised** by one
+
 ---
 <!-- .slide: data-background="white" -->
 # Who will enter the **kingdom** of God?
+
+>>>
++ it's one thing to **know** who God is
++ it's another to be **known** by the King of kings
 
 ******
 [22](# "ref")
@@ -82,19 +98,20 @@ and some are first who will be last.”
 1. Looking In from the Outside [(v28-30)](# "ref")
 
 >>>
-1. those who seek to enter
-2. call/response: don't know you, where from, evildoers
-3. looking in from the outside
+1. audience
+2. call/response, master's test
+3. warning about the feast at the kingdom of God
 
 ---
 <!-- .slide: <%= bg("Holyland_Model_Jerusalem.jpg") %>  -->
-[22](# "ref")
 He went on his way through towns and villages, <br>
 teaching and journeying toward **Jerusalem**.
 
 [23](# "ref")
 And someone said to him, <br>
 “Lord, will those who are **saved** be **few**?”
+
+[Luke 13:22-23](# "ref")
 
 >>>
 + ministry mostly in **Galilee**
@@ -126,6 +143,35 @@ and will not be **able**.
   + assume salvation **automatic**
   + inherited, **born** into it, "always been a Chr"
 + **surprised** when denied entry
++ God instructed **Jeremiah** 
+  + to stand in these temple **gates**
+  + and say to all who **entered**:
+
+---
+<!-- .slide: <%= bg("unesco-Jerusalem_Damascus_Gate_108391.jpg") %>  -->
+Thus says the Lord of hosts, the God of Israel: <br>
+**Amend** your ways and your deeds, <br>
+and I will let you **dwell** in this place. 
+
+[4](# "ref")
+Do not trust in these **deceptive** words: <br>
+‘This is the **temple** of the Lord, <br>
+the temple of the Lord, the temple of the Lord.’
+
+[Jeremiah 7:3-4 (ESV)](# "ref")
+[Old City of Jerusalem, Damascus Gate. <br> Leila Maziz. &copy; UNESCO, CC-BY-SA 3.0 IGO](http://whc.unesco.org/en/documents/108391 "caption")
+
+>>>
++ so we who come to **church**
+  + and feel **secure** that we are good Christians
++ "but I go to **church**! to church! to church!"
+  + "but I'm **baptised**! baptised! baptised!"
++ accustomed to the **trappings** of Chr life
+  + take for **granted** that we're saved
++ put our **trust** in the **symbols** + liturgy
+  + rather than in the **person** of Christ
++ parallel passage in **Mt**
+  + draws a **comparison** of two gates:
 
 ---
 <!-- .slide: <%= bg("unsplash-u0vgcIOQG08-forest_road_fork.jpg") %> -->
@@ -145,7 +191,8 @@ that leads to **life**, and those who find it are **few**.
 >>>
 + returning to our **Shepherd** is coming **home**
   + but it isn't the **default** path
-+ what comes **naturally** is **sin**!
++ **sin** is what comes **naturally** to us!
++ this is why Jesus commands us to **strive**:
 
 ---
 <!-- .slide: <%= bg("unsplash-ttbCwN_mWic-running.jpg") %> -->
@@ -161,10 +208,22 @@ and will not be able.
 + strive (**agony**): conflict, struggle
   + as in **battle** or in **competition**
   + e.g., 1co9:25 **athlete** control self
++ struggle not against **others** who might enter
+  + but against own natural **inclinations**
++ **laziness** in relying on religious symbols/acts
++ **pride** in believing I'm **entitled** to salvation
+  + bc of how I've **served** God
+  + or **suffered** from others
 
 ---
 <!-- .slide: data-background="white" -->
-# Q1
+# Do I **agonise** over salvation, <br> or take it for **granted**?
+
+>>>
++ not just **trying** harder
+  + "what more do you **expect** of me, God?"
++ but seeking to know what God **wants**
+  + w/attitude of **obedience**
 
 ---
 ## outline 2
@@ -201,9 +260,10 @@ and you **taught** in our streets.’
 [Kelsey Chance](https://unsplash.com/photos/tAH2cA_BL5g "caption")
 
 >>>
-+ **enjoyed** blessings from Master
-+ God **provides** for our needs
++ **enjoyed** blessings from God
+  + He **provides** abundantly for our needs
 + **read** Bible, listen to sermons
+  + **passive**, received from God
 + Mt7 goes even **further**:
 
 ---
@@ -230,6 +290,7 @@ Then he will answer you, <br>
 ‘I do not **know** where you come from.’
 
 ______
+<!-- .element: style="width:30%" -->
 
 [27](# "ref")
 But he will say, <br>
@@ -256,6 +317,7 @@ who **does the will** of my **Father** who is in heaven.
 + showing **mercy**:
   + 13:10-17 daughter of Abraham
   + 14:1-6 rescue cow on Sabbath
++ sounds like a lot of **work**?
 
 ---
 <!-- .slide: <%= bg("unsplash--wT0iS-TSZM-Anterne_cross.jpg") %> -->
@@ -280,6 +342,22 @@ that you **believe** in him whom he has **sent**.”
 + **faith** in action
 
 ---
+<!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
+If anyone wishes to **come after** Me, <br>
+he must **deny** himself, <br>
+and take up his **cross** daily and **follow** Me. 
+
+[24](# "ref")
+For whoever wishes to **save** his life will **lose** it, <br>
+but whoever **loses** his life for **My sake**, <br>
+he is the one who will **save** it. 
+
+[Luke 9:23-24 (ESV)](# "ref")
+[Aaron Burden](https://unsplash.com/photos/09AhDCedXF8 "caption")
+
+>>>
+
+---
 <!-- .slide: <%= bg("unsplash-BM0y9zmkA1M-eye.jpg") %> -->
 For now we see in a mirror **dimly**, <br>
 but then **face to face**.
@@ -290,7 +368,6 @@ even as I have been **fully known**.
 [1 Corinthians 13:12 (ESV)](# "ref")
 
 >>>
-
 
 ---
 <!-- .slide: data-background="white" -->
