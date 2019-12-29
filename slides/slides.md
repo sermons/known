@@ -232,6 +232,10 @@ and will not be able.
 1. **Known by the Master** [(v25-27)](# "ref")
 1. Looking In from the Outside [(v28-30)](# "ref")
 
+>>>
++ what is the **test**?
++ who are the ones who can **enter**?
+
 ---
 <!-- .slide: <%= bg("unsplash-Y05TMi8ZFHA-blue_door.jpg") %> -->
 When once the **master of the house** <br>
@@ -374,6 +378,14 @@ he is the one who will **save** it.
 [Lac d'Anterne, France.  Hugues de Buyer-Mimeure](https://unsplash.com/photos/-wT0iS-TSZM "caption")
 
 >>>
++ Jesus' **call** to disciples:
+  + **Follow** Me
++ **deny** self: not be **boss** of own life
++ take up **cross**: put to **death**
+  + what remains of **sinful** nature
++ emulate the **heart** of Christ: His **love**
+  + until our love is **perfected**
++ when we see Him **face** to face:
 
 ---
 <!-- .slide: <%= bg("unsplash-BM0y9zmkA1M-eye.jpg") %> -->
@@ -386,10 +398,27 @@ even as I have been **fully known**.
 [1 Corinthians 13:12 (ESV)](# "ref")
 
 >>>
++ all the **symbolism** + liturgy of religion
+  + doesn't fully **show** us who God is
+  + only a **part**
++ to **follow** after Christ means
+  + a **relationship** with Him
+  + learning His **heart**
++ not only to **know** of Him
+  + but to be **fully known** by Him
 
 ---
 <!-- .slide: data-background="white" -->
-# Q2
+# Do I seek Christ's **blessing** and **power**, <br> or His **heart**?
+
+>>>
++ **eat**+drink in His presence
+  + **hear** His Word/teaching
++ pray and He **answers**
+  + perform **mighty** deeds
++ but do I have a **relationship** with Jesus?
+  + spend **time** to listen
+  + **follow** after Him
 
 ---
 <!-- .slide: <%= bg("unsplash-NVnU0WIhC28-door_detail.jpg") %> class="outline" -->
@@ -462,7 +491,7 @@ and he will **exalt** you.
 
 ---
 <!-- .slide: data-background="white" -->
-# Q3
+# Will I end up on the **outside** of the **banquet** of the kingdom of God?
 
 ---
 <!-- .slide: <%= bg("unsplash-NVnU0WIhC28-door_detail.jpg") %> -->
