@@ -223,8 +223,14 @@ and some are **first** who will be **last**.”
 
 >>>
 + good or bad news? depends on our position
-+ Jam4 opposed to proud / grace to humble
 
+---
+"God **opposes** the proud but gives **grace** to the humble."
+
+[10](# "ref")
+**Humble** yourselves before the Lord, and he will **exalt** you.
+
+[James 4:6,10 (ESV)](# "ref")
 
 ---
 <!-- .slide: data-background="white" -->
