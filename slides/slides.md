@@ -1,6 +1,7 @@
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-NVnU0WIhC28-door_detail.jpg") %> id="title" -->
 # To Know and <br> Be Known
 ## Luke 13:22-30
+[Daniel von Appen](https://unsplash.com/photos/NVnU0WIhC28 "caption")
 
 ---
 <!-- .slide: data-background="white" -->
@@ -74,7 +75,7 @@ and some are first who will be last.”
 [Luke 13:22-30 (ESV) (p.5/5)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" id="outline" -->
+<!-- .slide: <%= bg("unsplash-NVnU0WIhC28-door_detail.jpg") %> class="outline" id="outline" -->
 ## To Know and Be Known [(Lk13)](# "ref")
 1. Seeking to Enter [(v22-24)](# "ref")
 1. Known by the Master [(v25-27)](# "ref")
@@ -326,3 +327,14 @@ and he will **exalt** you.
   + less emphasis, punt to next time (banquet)
   + is 28, rest + repentance
 
+---
+<!-- .slide: <%= bg("unsplash-NVnU0WIhC28-door_detail.jpg") %> -->
+**Strive** to enter through the **narrow** door.
+
+For many, I tell you, will **seek** to enter <br>
+and will not be **able**.
+
+[Luke 13:24 (ESV)](# "ref")
+
+---
+<!-- .slide: <%= bg("unsplash-NVnU0WIhC28-door_detail.jpg") %> class="empty" -->
