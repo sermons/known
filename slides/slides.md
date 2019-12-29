@@ -221,6 +221,11 @@ and recline at **table** in the kingdom of God.
 And behold, some are **last** who will be **first**, <br>
 and some are **first** who will be **last**.”
 
+>>>
++ good or bad news? depends on our position
++ Jam4 opposed to proud / grace to humble
+
+
 ---
 <!-- .slide: data-background="white" -->
 # Q3
