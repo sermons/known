@@ -1,7 +1,7 @@
 # To Know and Be Known
 ## Luke 13:22-30
 
-[![Build status](https://travis-ci.org/sermons/known.svg)](https://travis-ci.org/sermons/known)
+[![Build status](https://api.travis-ci.org/sermons/known.svg)](https://travis-ci.org/github/sermons/known)
 [![Node deps](https://david-dm.org/sermons/known.svg)](https://david-dm.org/sermons/known)
 [![Node devDeps](https://david-dm.org/sermons/known/dev-status.svg)](https://david-dm.org/sermons/known?type=dev)
 
