@@ -428,7 +428,7 @@ even as I have been **fully known**.
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I seek Christ's **blessing** and **power**, <br> or His **heart**?
+# Do I seek Christ's **blessings** and **power**, <br> but not His **heart**?
 
 >>>
 + **eat**+drink in His presence
