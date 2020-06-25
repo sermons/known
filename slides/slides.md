@@ -17,7 +17,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# How do I **know** I am saved?
+# How do I **know** <br> I am saved?
 
 >>>
 + it's one thing to **know** who God is
@@ -25,20 +25,24 @@
 
 ******
 [22](# "ref")
-He went on his way through towns and villages, <br>
+He went on his way <br>
+through towns and villages, <br>
 teaching and journeying toward Jerusalem.
 
 [23](# "ref")
 And someone said to him, <br>
 “Lord, will those who are saved be few?”
 
+[Luke 13:22-30 (ESV) (p.1/6)](# "ref")
+
+******
 And he said to them, <br>
 [24](# "ref")
 “Strive to enter through the narrow door. <br>
 For many, I tell you, will seek to enter <br>
 and will not be able.
 
-[Luke 13:22-30 (ESV) (p.1/5)](# "ref")
+[Luke 13:22-30 (ESV) (p.2/6)](# "ref")
 
 ******
 [25](# "ref")
@@ -46,12 +50,13 @@ When once the master of the house <br>
 has risen and shut the door,
 
 and you begin to stand outside <br>
-and to knock at the door, saying, ‘Lord, open to us,’
+and to knock at the door, <br>
+saying, ‘Lord, open to us,’
 
 then he will answer you, <br>
 ‘I do not know where you come from.’
 
-[Luke 13:22-30 (ESV) (p.2/5)](# "ref")
+[Luke 13:22-30 (ESV) (p.3/6)](# "ref")
 
 ******
 [26](# "ref")
@@ -64,7 +69,7 @@ But he will say, <br>
 ‘I tell you, I do not know where you come from. <br>
 Depart from me, all you workers of evil!’
 
-[Luke 13:22-30 (ESV) (p.3/5)](# "ref")
+[Luke 13:22-30 (ESV) (p.4/6)](# "ref")
 
 ******
 [28](# "ref")
@@ -76,7 +81,7 @@ and all the prophets in the kingdom of God
 
 but you yourselves cast out.
 
-[Luke 13:22-30 (ESV) (p.4/5)](# "ref")
+[Luke 13:22-30 (ESV) (p.5/6)](# "ref")
 
 ******
 [29](# "ref")
@@ -88,7 +93,7 @@ and recline at table in the kingdom of God.
 And behold, some are last who will be first, <br>
 and some are first who will be last.”
 
-[Luke 13:22-30 (ESV) (p.5/5)](# "ref")
+[Luke 13:22-30 (ESV) (p.6/6)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-NVnU0WIhC28-door_detail.jpg") %> class="outline" id="outline" -->
@@ -129,7 +134,8 @@ And someone said to him, <br>
 ---
 <!-- .slide: <%= bg("pixabay-1290860-padlock.jpg") %> -->
 And he said to them, <br>
-“Strive to enter through the narrow door. <br>
+“Strive to enter through the narrow door.
+
 For many, I tell you, will **seek** to enter <br>
 and will not be **able**.
 
@@ -197,7 +203,8 @@ that leads to **life**, and those who find it are **few**.
 ---
 <!-- .slide: <%= bg("unsplash-ttbCwN_mWic-running.jpg") %> -->
 And he said to them, <br>
-“**Strive** to enter through the **narrow door**. <br>
+“**Strive** to enter through the **narrow door**.
+
 For many, I tell you, will seek to enter <br>
 and will not be able.
 
@@ -217,7 +224,7 @@ and will not be able.
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I **agonise** over <br> my salvation, <br> or take it for **granted**?
+# Do I **agonise** over <br> my salvation, or <br> take it for **granted**?
 
 >>>
 + not just **trying** harder
@@ -242,7 +249,8 @@ When once the **master of the house** <br>
 has risen and **shut** the door,
 
 and you begin to **stand** outside <br>
-and to **knock** at the door, saying, ‘Lord, open to us,’
+and to **knock** at the door, <br>
+saying, ‘Lord, open to us,’
 
 then he will answer you, <br>
 ‘I do not **know** where you come from.’
@@ -325,8 +333,10 @@ Depart from me, all you **workers of evil**!’
 ---
 <!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
 Not everyone who says to me, **‘Lord, Lord,’** <br>
-will enter the kingdom of heaven, but the one <br>
-who **does the will** of my **Father** who is in heaven.
+will enter the kingdom of heaven, 
+
+but the one who **does the will** <br>
+of my **Father** who is in heaven.
 
 [Matthew 7:21 (ESV)](# "ref")
 [Montreal, CA. Marc-Olivier Jodoin](https://unsplash.com/photos/TStNU7H4UEE "caption")
@@ -339,21 +349,30 @@ who **does the will** of my **Father** who is in heaven.
 
 ---
 <!-- .slide: <%= bg("unsplash-WJkc3xZjSXw-trees_overhead.jpg") %> -->
-Do not **work** for the food that perishes, <br>
+[27](# "ref")
+Do not **work** for the food that perishes,
+
 but for the food that endures to **eternal life**, <br>
-which the **Son of Man** will give to you. <br>
+which the **Son of Man** will give to you. 
+
 For on him God the Father has set his **seal**.” 
 
+[John 6:27-29 (ESV) (p.1/2)](# "ref")
+[Geran de Klerk, Gävle, Sweden](https://unsplash.com/photos/WJkc3xZjSXw "caption")
+
+---
+<!-- .slide: <%= bg("unsplash-WJkc3xZjSXw-trees_overhead.jpg") %> -->
 [28](# "ref")
 Then they said to him, <br>
-“What must we **do**, to be doing the **works of God**?” 
+“What must we **do**, <br>
+to be doing the **works of God**?” 
 
 [29](# "ref")
-Jesus answered them, “This is the work of God, <br>
+Jesus answered them, <br>
+“This is the **work** of God, <br>
 that you **believe** in him whom he has **sent**.”
 
-[John 6:27-29 (ESV)](# "ref")
-[Geran de Klerk, Gävle, Sweden](https://unsplash.com/photos/WJkc3xZjSXw "caption")
+[John 6:27-29 (ESV) (p.1/2)](# "ref")
 
 >>>
 + ok so we just **believe** in Jesus, and that's it?
