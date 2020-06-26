@@ -119,15 +119,14 @@ And someone said to him, <br>
 [Luke 13:22-23](# "ref")
 
 >>>
-+ ministry mostly in **Galilee**
++ ministry mostly **Galilee**; trips to Jeru **signif.**
 + fiercest opposition in **Jeru**
   + v31 **Herod** seeking to kill
-+ Jeru: **temple**, preserve **worship**
-  + though conq by Grk, Rom
-+ society incr. **pagan**, hostile to God
++ Jeru: **temple**, preserve **worship** of God
+  + despite **conq** by Greeks, Romans
++ In society incr. **pagan**, hostile to God
   + Jeru: traditional **values**
-+ "we are the **faithful few**", outnumbered
-  + we are **chosen** elite, right?
++ "We are the **faithful few**" -- **chosen** elite, right?
 + Christ's **reply**: yes, only a **few**,
   + but **not** how you think!
 
@@ -143,14 +142,15 @@ and will not be **able**.
 
 >>>
 + seek (zeal): **desire**, consumed by
-  + those who **believe** self to be saved but aren't
++ not those who **don't care** about God, but
+  + those who **believe** self saved but **aren't**
 + able (**strong**): unable to overcome
 + take for **granted** being saved
   + assume salvation **automatic**
   + inherited, **born** into it, "always been a Chr"
 + **surprised** when denied entry
 + God instructed **Jeremiah** 
-  + to stand in these temple **gates**
+  + to stand in the temple **gates**
   + and say to all who **entered**:
 
 ---
@@ -168,16 +168,16 @@ the temple of the Lord, the temple of the Lord.’
 [Old City of Jerusalem, Damascus Gate. <br> Leila Maziz. &copy; UNESCO, CC-BY-SA 3.0 IGO](http://whc.unesco.org/en/documents/108391 "caption")
 
 >>>
-+ so we who come to **church**
-  + and feel **secure** that we are good Christians
++ so we who attend **church** and
+  + feel **secure** that we're good Christians:
 + "but I go to **church**! to church! to church!"
   + "but I'm **baptised**! baptised! baptised!"
 + accustomed to the **trappings** of Chr life
   + take for **granted** that we're saved
 + put our **trust** in the **symbols** + liturgy
   + rather than in the **person** of Christ
-+ parallel passage in **Mt**
-  + draws a **comparison** of two gates:
++ parallel passage in **Mt7**
+  + draws a **comparison** of 2 gates, 2 roads:
 
 ---
 <!-- .slide: <%= bg("unsplash-u0vgcIOQG08-forest_road_fork.jpg") %> -->
@@ -195,10 +195,10 @@ that leads to **life**, and those who find it are **few**.
 [Jens Lelie](https://unsplash.com/photos/u0vgcIOQG08 "caption")
 
 >>>
-+ returning to our **Shepherd** is coming **home**
-  + but it isn't the **default** path
-+ **sin** is what comes **naturally** to us!
-+ this is why Jesus commands us to **strive**:
++ Yes, returning to our **Shepherd** is coming **home**
++ But that doesn't mean it's **default** path --
+  + what comes **naturally** to us is **sin**!
++ this is why Jesus commands us in v24 to **strive**:
 
 ---
 <!-- .slide: <%= bg("unsplash-ttbCwN_mWic-running.jpg") %> -->
@@ -214,8 +214,8 @@ and will not be able.
 >>>
 + strive (**agony**): conflict, struggle
   + as in **battle** or in **competition**
-  + e.g., 1co9:25 **athlete** control self
-+ struggle not against **others** who might enter
+  + e.g., 1Co9:25 **athlete** control self
++ Struggle not against **others** who might enter
   + but against own natural **inclinations**
 + **laziness** in relying on religious symbols/acts
 + **pride** in believing I'm **entitled** to salvation
@@ -259,11 +259,10 @@ then he will answer you, <br>
 [Chefchaouen, Mexico. Randy Tarampi](https://unsplash.com/photos/Y05TMi8ZFHA "caption")
 
 >>>
-+ lord of house
-+ shut (locked): for the night
-+ begin: implied lengthy duration
-+ master is **known** to the seekers
-+ but the seekers are **not** known by the master
++ Large households often **open** during day: **biz**, visit
+  + **Locked** at night: **guests** wouldn't normally come
++ Master is **known** to seekers, but
+  + seekers **not** known by master
 + what was the **nature** of the relationship?
 
 ---
@@ -278,10 +277,10 @@ and you **taught** in our streets.’
 >>>
 + **enjoyed** blessings from God
   + He **provides** abundantly for our needs
-+ **read** Bible, listen to sermons
++ || **read** Bible, listen to sermons
   + **passive**, received from God
 + God **blesses** us, so He must be **pleased** with us?
-+ Mt7 goes even **further**:
++ Parallel in Mt goes even **further**:
 
 ---
 <!-- .slide: <%= bg("unsplash-6liebVeAfrY-worship.jpg") %> -->
@@ -294,13 +293,13 @@ and do many **mighty works** in your name?’
 [Los Angeles. Edwin Andrade](https://unsplash.com/photos/6liebVeAfrY "caption")
 
 >>>
-+ prophesy: **teach** others, preach
-+ demons: acts of **healing**, counselling
++ (1) prophesy: **preaching**, teach others
++ (2) demons: acts of **healing**, counselling
   + **service**, volunteering
-+ perform **miracles** in Jesus' name
-  + not just from **own** strength
++ (3) perform **miracles** in Jesus' name
+  + not just from **own** strength:
 + God **answered** our prayers,
-  + so He must be **pleased** with us?
+  + so He must be **pleased** with us, right?
 
 ---
 <!-- .slide: <%= bg("unsplash-xCdFXXoZkJc-dark_sky.jpg") %> -->
@@ -320,12 +319,22 @@ Depart from me, all you **workers of evil**!’
 [Ukraine. Paul Itkin](https://unsplash.com/photos/xCdFXXoZkJc "caption")
 
 >>>
-+ "know **you**, where you come from"
-+ forgotten that Jesus is a **person**
-  + not a **vending machine** of blessing
-  + not a **cosmic power** I can wield
-+ discipleship means **following** Christ
++ "know **you**, where you **come** from"
++ forgotten Jesus is a **person**:
+  + not **vending machine** of blessing
+  + not **cosmic power** I can wield
++ Discipleship means **following** Christ
   + pursuing the **relationship**
+
+---
+<!-- .slide: <%= bg("unsplash-xCdFXXoZkJc-dark_sky.jpg") %> -->
+But he will say, <br>
+‘I tell you, I do not know where you come from. <br>
+Depart from me, all you **workers of evil**!’
+
+[Luke 13:27 (ESV)](# "ref")
+
+>>>
 + without that, all my acts of **service**
   + become acts of **evil**
 + parallel passage in **Mt7**:
