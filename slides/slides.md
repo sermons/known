@@ -540,7 +540,7 @@ the **Shepherd** and **Overseer** of your souls.
 
 ---
 <!-- .slide: data-background="white" -->
-# Will I end up on <br> the **outside** of the **banquet** in God's kingdom?
+# Will I end up on <br> the **outside** of <br> the **banquet** in God's kingdom?
 
 >>>
 + **Many** well-intentioned, pious people
