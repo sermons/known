@@ -4,16 +4,11 @@
 [Daniel von Appen](https://unsplash.com/photos/NVnU0WIhC28 "caption")
 
 >>>
-+ **cute** story this week about [Princess Charlotte](https://www.mirror.co.uk/news/uk-news/cheeky-princess-charlotte-refuses-hand-21162838)
-  + 4yo daughter of Prince William + Duchess Kate
-+ given a bouquet of **roses** by 6yo boy
-  + refused to **hand over** to royal aide
-+ royals / **celebrities** see so many people
-  + nice to be **acknowledged**
-+ we know about **them**
-  + but they don't know who **we** are
-+ it's one thing to take a **photo** of a royal
-  + it's another to be **recognised** by one
++ Is it possible to be fully **convinced** you're a Chr
+  + to **listen** to the Word of God daily
+  + even **teach** it to others
++ in the end, **reach** the gates of heaven, 
+  + and find them **locked** to you?
 
 ---
 <!-- .slide: data-background="white" -->
@@ -21,7 +16,14 @@
 
 >>>
 + it's one thing to **know** who God is
-+ it's another to be **known** by the King of kings
+  + it's another to be **known** by the King of kings
++ today's passage: Luke 13
+  + draw **near** to behold the Lamb
+
+______
+
++ Reveal **Your** heart of mercy to us
++ Reveal **our** own hearts, to examine **accurately**
 
 ******
 [22](# "ref")
@@ -103,9 +105,9 @@ and some are first who will be last.”
 1. Looking In from the **Outside** [(v28-30)](# "ref")
 
 >>>
-1. audience
-2. call/response, master's test
-3. warning about the feast at the kingdom of God
+1. set stage: **audience**
+2. call/response: master's **test**
+3. warning about future: kindness + **severity** of God
 
 ---
 <!-- .slide: <%= bg("Holyland_Model_Jerusalem.jpg") %>  -->
@@ -214,11 +216,13 @@ and will not be able.
 >>>
 + strive (**agony**): conflict, struggle
   + as in **battle** or in **competition**
+  + focus not on **pain**, but **exertion**
   + e.g., 1Co9:25 **athlete** control self
 + Struggle not against **others** who might enter
-  + but against own natural **inclinations**
-+ **laziness** in relying on religious symbols/acts
-+ **pride** in believing I'm **entitled** to salvation
+  + nor trying to **be better** / holier
++ But against own natural **inclinations**:
+  + **Laziness** in relying on religious symbols/acts
++ **Pride** in believing I'm **entitled** to salvation
   + bc of how I've **served** God
   + or **suffered** from others
 
@@ -230,7 +234,7 @@ and will not be able.
 + not just **trying** harder
   + "what more do you **expect** of me, God?"
 + but seeking to know what God **wants**
-  + w/attitude of **obedience**
+  + w/attitude of **obedience** + humility
 
 ---
 <!-- .slide: <%= bg("unsplash-NVnU0WIhC28-door_detail.jpg") %> class="outline" -->
@@ -240,8 +244,9 @@ and will not be able.
 1. Looking In from the Outside [(v28-30)](# "ref")
 
 >>>
-+ what is the **test**?
-+ who are the ones who can **enter**?
++ so if not all who **seek** to enter **can**,
++ then what is the **test**?
++ Who are the ones who can **enter**?
 
 ---
 <!-- .slide: <%= bg("unsplash-Y05TMi8ZFHA-blue_door.jpg") %> -->
@@ -312,25 +317,24 @@ ______
 
 [27](# "ref")
 But he will say, <br>
-‘I tell you, I do not **know** where you come from. <br>
-Depart from me, all you **workers of evil**!’
+‘I tell you, I do not **know** where you come from.
 
 [Luke 13:25,27 (ESV)](# "ref")
 [Ukraine. Paul Itkin](https://unsplash.com/photos/xCdFXXoZkJc "caption")
 
 >>>
-+ "know **you**, where you **come** from"
-+ forgotten Jesus is a **person**:
++ "know **you**, where you **come** from": you're a **stranger**
++ Forgotten Jesus is a **person**:
   + not **vending machine** of blessing
   + not **cosmic power** I can wield
 + Discipleship means **following** Christ
-  + pursuing the **relationship**
+  + As 12 disciples **lived** w/, learned from Jesus
++ Orient whole **life** around the **relationship**
+  + Not just a weekly **dose** added to regular life
 
 ---
 <!-- .slide: <%= bg("unsplash-xCdFXXoZkJc-dark_sky.jpg") %> -->
-But he will say, <br>
-‘I tell you, I do not know where you come from. <br>
-Depart from me, all you **workers of evil**!’
+Depart from me, all you **workers of evil**!
 
 [Luke 13:27 (ESV)](# "ref")
 
@@ -381,7 +385,7 @@ Jesus answered them, <br>
 “This is the **work** of God, <br>
 that you **believe** in him whom he has **sent**.”
 
-[John 6:27-29 (ESV) (p.1/2)](# "ref")
+[John 6:27-29 (ESV) (p.2/2)](# "ref")
 
 >>>
 + ok so we just **believe** in Jesus, and that's it?
@@ -437,16 +441,17 @@ even as I have been **fully known**.
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I seek Christ's **blessings** and **power**, <br> but not His **heart**?
+# Do I seek Christ's **blessings** or **power**, <br> but not His **heart**?
 
 >>>
-+ **eat**+drink in His presence
-  + **hear** His Word/teaching
-+ pray and He **answers**
-  + perform **mighty** deeds
-+ but do I have a **relationship** with Jesus?
-  + spend **time** to listen
-  + **follow** after Him
++ I've **eaten** + drunk in His presence
+  + **heard** His Word/teaching
++ prayed and He's **answered**
+  + performed **mighty** deeds
++ But do I have a **relationship** with Jesus?
+  + **believe** in Him, faith in **action**
+  + make Him **boss** over every aspect of life
+  + **strive** to emulate His heart
 
 ---
 <!-- .slide: <%= bg("unsplash-NVnU0WIhC28-door_detail.jpg") %> class="outline" -->
@@ -496,33 +501,53 @@ and some are **first** who will be **last**.”
 [Iceland. Davide Cantelli](https://unsplash.com/photos/H3giJcTw__w "caption")
 
 >>>
-+ **examine** self: e.g. before **communion**
-  + eat+drink bread+cup w/o recognizing **body+blood**
-  + eats+drinks **judgment** upon self
 + good or bad news? depends on our **position**
++ **Humble** ourselves before God, He will **exalt** us
++ To those who **don't** really want 
+  + to be part of God's kingdom right now:
++ Whether **angry** at God, or just don't feel you **need** Him
+  + **defiance** in eyes, **flush** of heat
++ **indignance**: I've yielded on so many other things
+  + I just **can't** yield to God now
+  + would be **humiliating**, losing **face**
++ e.g., JJ: **5min** to calm down, sometimes 5sec
+  + then on own admits he was **wrong**
++ We **adults** often need **5mo** or years!
 
 ---
 <!-- .slide: <%= bg("unsplash-FrlCwXwbwkk-grass.jpg") %> -->
-"God **opposes** the proud <br>
-but gives **grace** to the humble."
+He himself **bore our sins** in his body on the tree,<br>
+that we might **die to sin** <br>
+and live to **righteousness**.<br>
+By his wounds you have been healed. 
 
-[10](# "ref")
-**Humble** yourselves before the Lord, <br>
-and he will **exalt** you.
+[25](# "ref")
+For you were **straying** like sheep, <br>
+but have now **returned** to <br>
+the **Shepherd** and **Overseer** of your souls.
 
-[James 4:6,10 (ESV)](# "ref")
+[1 Peter 2:24-25 (ESV)](# "ref")
 [Claudio Testa](https://unsplash.com/photos/FrlCwXwbwkk "caption")
 
 >>>
-+ God **longs** to show **grace** to us
-  + we are the ones who **reject** it!
-+ v34 **hen** under wings, but you **refused**:
-  + next time Lk14 **banquet**
-  + (Is 28, rest + repentance)
++ If you have not been **seeking** to find the kingdom of God
+  + **encourage** you, it's not too late for you
++ Christ has **finished** the work which **saves** us
+  + that we might **live** new lives in Him
++ It's time to **return** to Shepherd + Overseer of our souls
++ **Examine** your heart; you don't want to end up
 
 ---
 <!-- .slide: data-background="white" -->
-# Will I end up on the **outside** of the **banquet** of the kingdom of God?
+# Will I end up on <br> the **outside** of the **banquet** in God's kingdom?
+
+>>>
++ **Many** well-intentioned, pious people
+  + richly **blessed** by God
+  + **listened** to His World daily
+  + even **taught** others about Him
++ Will be caught on the **outside**
+  + so this is **important**!
 
 ---
 <!-- .slide: <%= bg("unsplash-NVnU0WIhC28-door_detail.jpg") %> -->
@@ -532,6 +557,15 @@ For many, I tell you, will **seek** to enter <br>
 and will not be **able**.
 
 [Luke 13:24 (ESV)](# "ref")
+
+>>>
++ We've **assumed** will be entering Your kingdom
+  + that going to **church** is good enough
+  + that **trying** our best to be holy is good enough
+  + that **hearing** Your Word is good enough
++ We've **replaced** You with the **trappings** of mainstream Chr culture
++ Bring our **hearts** back to You: Father, Rabbi, Master
+  + Be still and **know** You are God
 
 ---
 <!-- .slide: <%= bg("unsplash-NVnU0WIhC28-door_detail.jpg") %> class="empty" -->
