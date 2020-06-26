@@ -221,7 +221,7 @@ and will not be able.
 + Struggle not against **others** who might enter
   + nor trying to **be better** / holier
 + But against own natural **inclinations**:
-  + **Laziness** in relying on religious symbols/acts
+  + **Laziness** in relying on religious symbols, acts
 + **Pride** in believing I'm **entitled** to salvation
   + bc of how I've **served** God
   + or **suffered** from others
@@ -264,8 +264,8 @@ then he will answer you, <br>
 [Chefchaouen, Mexico. Randy Tarampi](https://unsplash.com/photos/Y05TMi8ZFHA "caption")
 
 >>>
-+ Large households often **open** during day: **biz**, visit
-  + **Locked** at night: **guests** wouldn't normally come
++ Large houses often **open** daytime: **biz**, visit
+  + **Locked** at night: no **guests** normally
 + Master is **known** to seekers, but
   + seekers **not** known by master
 + what was the **nature** of the relationship?
@@ -505,8 +505,9 @@ and some are **first** who will be **last**.”
 + **Humble** ourselves before God, He will **exalt** us
 + To those who **don't** really want 
   + to be part of God's kingdom right now:
-+ Whether **angry** at God, or just don't feel you **need** Him
-  + **defiance** in eyes, **flush** of heat
++ Whether **angry** at God, or 
+  + just don't feel you **need** Him
++ **defiance** in eyes, **flush** of heat
 + **indignance**: I've yielded on so many other things
   + I just **can't** yield to God now
   + would be **humiliating**, losing **face**
@@ -530,11 +531,11 @@ the **Shepherd** and **Overseer** of your souls.
 [Claudio Testa](https://unsplash.com/photos/FrlCwXwbwkk "caption")
 
 >>>
-+ If you have not been **seeking** to find the kingdom of God
++ If you haven't **seeking** to find kingdom of God
   + **encourage** you, it's not too late for you
 + Christ has **finished** the work which **saves** us
   + that we might **live** new lives in Him
-+ It's time to **return** to Shepherd + Overseer of our souls
++ It's time to **return**: Shepherd + Overseer
 + **Examine** your heart; you don't want to end up
 
 ---
@@ -563,9 +564,11 @@ and will not be **able**.
   + that going to **church** is good enough
   + that **trying** our best to be holy is good enough
   + that **hearing** Your Word is good enough
-+ We've **replaced** You with the **trappings** of mainstream Chr culture
-+ Bring our **hearts** back to You: Father, Rabbi, Master
-  + Be still and **know** You are God
++ We've **replaced** You with 
+  + the **trappings** of mainstream Chr culture
++ Bring our **hearts** back to You: 
+  + Father, Rabbi, Master
++ Be still and **know** You are God
 
 ---
 <!-- .slide: <%= bg("unsplash-NVnU0WIhC28-door_detail.jpg") %> class="empty" -->
