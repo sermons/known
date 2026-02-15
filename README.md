@@ -1,11 +1,12 @@
 # To Know and Be Known
 ## Luke 13:22-30
 
-[![Build status](https://api.travis-ci.com/sermons/known.svg)](https://travis-ci.com/github/sermons/known)
-[![Node deps](https://david-dm.org/sermons/known.svg)](https://david-dm.org/sermons/known)
-[![Node devDeps](https://david-dm.org/sermons/known/dev-status.svg)](https://david-dm.org/sermons/known?type=dev)
+[![Build status](https://github.com/sermons/known/actions/workflows/build.yml/badge.svg)](https://github.com/sermons/known/actions/workflows/build.yml)
+![Dependency check](https://img.shields.io/librariesio/github/sermons/known)
 
 Template presentation: [reveal-skel](https://github.com/sermons/reveal-skel)
 
 See [INSTALL.md](INSTALL.md)
 for how to make your own presentation.
+
+Test locally with `grunt connect:serve:keepalive`
