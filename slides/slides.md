@@ -363,6 +363,7 @@ even as I have been **fully known**.
 ---
 <!-- .slide: data-background="white" -->
 # Do I seek Christ's **blessings** or **power**, <br> but not His **heart**?
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + I've **eaten** + drunk in His presence
