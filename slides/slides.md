@@ -25,78 +25,6 @@ ______
 + Reveal **Your** heart of mercy to us
 + Reveal **our** own hearts, to examine **accurately**
 
-******
-[22](# "ref")
-He went on his way <br>
-through towns and villages, <br>
-teaching and journeying toward Jerusalem.
-
-[23](# "ref")
-And someone said to him, <br>
-“Lord, will those who are saved be few?”
-
-[Luke 13:22-30 (ESV) (p.1/6)](# "ref")
-
-******
-And he said to them, <br>
-[24](# "ref")
-“Strive to enter through the narrow door. <br>
-For many, I tell you, will seek to enter <br>
-and will not be able.
-
-[Luke 13:22-30 (ESV) (p.2/6)](# "ref")
-
-******
-[25](# "ref")
-When once the master of the house <br>
-has risen and shut the door,
-
-and you begin to stand outside <br>
-and to knock at the door, <br>
-saying, ‘Lord, open to us,’
-
-then he will answer you, <br>
-‘I do not know where you come from.’
-
-[Luke 13:22-30 (ESV) (p.3/6)](# "ref")
-
-******
-[26](# "ref")
-Then you will begin to say, <br>
-‘We ate and drank in your presence, <br>
-and you taught in our streets.’
-
-[27](# "ref")
-But he will say, <br>
-‘I tell you, I do not know where you come from. <br>
-Depart from me, all you workers of evil!’
-
-[Luke 13:22-30 (ESV) (p.4/6)](# "ref")
-
-******
-[28](# "ref")
-In that place there will be <br>
-weeping and gnashing of teeth,
-
-when you see Abraham and Isaac and Jacob <br>
-and all the prophets in the kingdom of God
-
-but you yourselves cast out.
-
-[Luke 13:22-30 (ESV) (p.5/6)](# "ref")
-
-******
-[29](# "ref")
-And people will come from east and west, <br>
-and from north and south, <br>
-and recline at table in the kingdom of God.
-
-[30](# "ref")
-And behold, some are last who will be first, <br>
-and some are first who will be last.”
-
-[Luke 13:22-30 (ESV) (p.6/6)](# "ref")
-
 ---
 <!-- .slide: <%= bg("unsplash-NVnU0WIhC28-door_detail.jpg") %> class="outline" id="outline" -->
 ## To Know and Be Known [(Lk13)](# "ref")
@@ -114,11 +42,10 @@ and some are first who will be last.”
 He went on his way through towns and villages, <br>
 teaching and journeying toward **Jerusalem**.
 
-[23](# "ref")
 And someone said to him, <br>
 “Lord, will those who are **saved** be **few**?”
 
-[Luke 13:22-23](# "ref")
+[Luke 13:22-23 (ESV)](# "ref")
 
 >>>
 + ministry mostly **Galilee**; trips to Jeru **signif.**
@@ -161,7 +88,6 @@ Thus says the Lord of hosts, the God of Israel: <br>
 **Amend** your ways and your deeds, <br>
 and I will let you **dwell** in this place. 
 
-[4](# "ref")
 Do not trust in these **deceptive** words: <br>
 ‘This is the **temple** of the Lord, <br>
 the temple of the Lord, the temple of the Lord.’
@@ -189,7 +115,6 @@ For the gate is **wide** and the way is **easy** <br>
 that leads to **destruction**, <br>
 and those who enter by it are **many**. 
 
-[14](# "ref")
 For the gate is **narrow** and the way is **hard** <br>
 that leads to **life**, and those who find it are **few**.
 
@@ -362,7 +287,6 @@ of my **Father** who is in heaven.
 
 ---
 <!-- .slide: <%= bg("unsplash-WJkc3xZjSXw-trees_overhead.jpg") %> -->
-[27](# "ref")
 Do not **work** for the food that perishes,
 
 but for the food that endures to **eternal life**, <br>
@@ -375,12 +299,10 @@ For on him God the Father has set his **seal**.”
 
 ---
 <!-- .slide: <%= bg("unsplash-WJkc3xZjSXw-trees_overhead.jpg") %> -->
-[28](# "ref")
 Then they said to him, <br>
 “What must we **do**, <br>
 to be doing the **works of God**?” 
 
-[29](# "ref")
 Jesus answered them, <br>
 “This is the **work** of God, <br>
 that you **believe** in him whom he has **sent**.”
@@ -401,7 +323,6 @@ If anyone wishes to **come after** Me, <br>
 he must **deny** himself, <br>
 and take up his **cross** daily and **follow** Me. 
 
-[24](# "ref")
 For whoever wishes to **save** his life will **lose** it, <br>
 but whoever **loses** his life for **My sake**, <br>
 he is the one who will **save** it. 
@@ -493,7 +414,6 @@ And people will come from **east and west**, <br>
 and from north and south, <br>
 and recline at **table** in the kingdom of God.
 
-[30](# "ref")
 And behold, some are **last** who will be **first**, <br>
 and some are **first** who will be **last**.”
 
@@ -522,7 +442,6 @@ that we might **die to sin** <br>
 and live to **righteousness**.<br>
 By his wounds you have been healed. 
 
-[25](# "ref")
 For you were **straying** like sheep, <br>
 but have now **returned** to <br>
 the **Shepherd** and **Overseer** of your souls.
