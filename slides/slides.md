@@ -33,9 +33,14 @@ ______
 1. Looking In from the **Outside** [(v28-30)](# "ref")
 
 >>>
-1. set stage: **audience**
-2. call/response: master's **test**
-3. warning about future: kindness + **severity** of God
++ This part of Luke not **chronological**
+  + organised by **theme**
++ Who will be **saved**?
+  + What is **kingdom** of God like?
++ 1. **Who** is Jesus addressing?
++ 2. Call/response: master's **test**
++ 3. **Warning** about future: 
+  + kindness + **severity** of God
 
 ---
 <!-- .slide: <%= bg("Holyland_Model_Jerusalem.jpg") %>  -->
@@ -48,14 +53,16 @@ And someone said to him, <br>
 [Luke 13:22-23 (ESV)](# "ref")
 
 >>>
-+ ministry mostly **Galilee**; trips to Jeru **signif.**
-+ fiercest opposition in **Jeru**
-  + v31 **Herod** seeking to kill
-+ Jeru: **temple**, preserve **worship** of God
++ ministry mostly in **Galilee**:
+  + so trips to Jeru are **signif.**
++ fiercest opposition in **Jeru**:
+  + v31 **Herod** seeks to kill
++ **temple**: preserve **worship** of God
   + despite **conq** by Greeks, Romans
 + In society incr. **pagan**, hostile to God
-  + Jeru: traditional **values**
-+ "We are the **faithful few**" -- **chosen** elite, right?
+  + Jeru stood for **trad** values
++ "We are the **faithful few**":
+  + **chosen** elite, right?
 + Christ's **reply**: yes, only a **few**,
   + but **not** how you think!
 
@@ -71,12 +78,14 @@ and will not be **able**.
 
 >>>
 + seek (zeal): **desire**, consumed by
-+ not those who **don't care** about God, but
-  + those who **believe** self saved but **aren't**
++ not those who **don't care** about God, 
+  + but those who **believe** are saved 
+  + but **aren't**
 + able (**strong**): unable to overcome
 + take for **granted** being saved
   + assume salvation **automatic**
-  + inherited, **born** into it, "always been a Chr"
+  + inherited, **born** into it:
+  + "**always** been a Chr"
 + **surprised** when denied entry
 + God instructed **Jeremiah** 
   + to stand in the temple **gates**
@@ -96,16 +105,15 @@ the temple of the Lord, the temple of the Lord.’
 [Old City of Jerusalem, Damascus Gate. <br> Leila Maziz. &copy; UNESCO, CC-BY-SA 3.0 IGO](http://whc.unesco.org/en/documents/108391 "caption")
 
 >>>
-+ so we who attend **church** and
-  + feel **secure** that we're good Christians:
-+ "but I go to **church**! to church! to church!"
-  + "but I'm **baptised**! baptised! baptised!"
-+ accustomed to the **trappings** of Chr life
++ To us who attend **church**,
+  + feel **secure** that we're good Chr:
++ "But I go to **church**! (3x)" baptised!
++ Accustomed to **trappings** of Chr life
   + take for **granted** that we're saved
 + put our **trust** in the **symbols** + liturgy
   + rather than in the **person** of Christ
-+ parallel passage in **Mt7**
-  + draws a **comparison** of 2 gates, 2 roads:
++ **Mt7**: parallel to today's passage
+  + **contrasts** 2 gates, 2 roads:
 
 ---
 <!-- .slide: <%= bg("unsplash-u0vgcIOQG08-forest_road_fork.jpg") %> -->
@@ -122,10 +130,11 @@ that leads to **life**, and those who find it are **few**.
 [Jens Lelie](https://unsplash.com/photos/u0vgcIOQG08 "caption")
 
 >>>
-+ Yes, returning to our **Shepherd** is coming **home**
-+ But that doesn't mean it's **default** path --
++ Yes, returning to our **Shepherd** 
+  + is coming **home**,
++ But doesn't mean it's **default** path:
   + what comes **naturally** to us is **sin**!
-+ this is why Jesus commands us in v24 to **strive**:
++ So Jesus commands in v24 to **strive**:
 
 ---
 <!-- .slide: <%= bg("unsplash-ttbCwN_mWic-running.jpg") %> -->
@@ -141,24 +150,25 @@ and will not be able.
 >>>
 + strive (**agony**): conflict, struggle
   + as in **battle** or in **competition**
-  + focus not on **pain**, but **exertion**
+  + focus: not **pain**, but **exertion**
   + e.g., 1Co9:25 **athlete** control self
-+ Struggle not against **others** who might enter
++ Not vs **others** who might enter
   + nor trying to **be better** / holier
 + But against own natural **inclinations**:
-  + **Laziness** in relying on religious symbols, acts
-+ **Pride** in believing I'm **entitled** to salvation
+  + **Lazy**: rely on religious symbols + acts
++ **Pride**: believe **entitled** to salvation
   + bc of how I've **served** God
   + or **suffered** from others
 
 ---
 <!-- .slide: data-background="white" -->
 # Do I **agonise** over <br> my salvation, or <br> take it for **granted**?
+<!-- .element: class="r-fit-text" -->
 
 >>>
-+ not just **trying** harder
-  + "what more do you **expect** of me, God?"
-+ but seeking to know what God **wants**
++ Not just **trying** harder
+  + "What more do you **expect** of me, God?"
++ But seeking to know what God **wants**
   + w/attitude of **obedience** + humility
 
 ---
@@ -169,9 +179,9 @@ and will not be able.
 1. Looking In from the Outside [(v28-30)](# "ref")
 
 >>>
-+ so if not all who **seek** to enter **can**,
-+ then what is the **test**?
-+ Who are the ones who can **enter**?
++ So if not all who **seek** to enter **can**,
++ Then what is the **test**?
++ who are the ones who can **enter**?
 
 ---
 <!-- .slide: <%= bg("unsplash-Y05TMi8ZFHA-blue_door.jpg") %> -->
@@ -189,8 +199,9 @@ then he will answer you, <br>
 [Chefchaouen, Mexico. Randy Tarampi](https://unsplash.com/photos/Y05TMi8ZFHA "caption")
 
 >>>
-+ Large houses often **open** daytime: **biz**, visit
-  + **Locked** at night: no **guests** normally
++ Host of lavish **banquet**
++ When festivities **begin**, door is **shut**
+  + Who is on the **guest** list?
 + Master is **known** to seekers, but
   + seekers **not** known by master
 + what was the **nature** of the relationship?
@@ -205,11 +216,12 @@ and you **taught** in our streets.’
 [Aaron Burden](https://unsplash.com/photos/c333d6YEhi0 "caption")
 
 >>>
-+ **enjoyed** blessings from God
-  + He **provides** abundantly for our needs
++ **Enjoyed** blessings from God
+  + **provides** abundantly for needs
 + || **read** Bible, listen to sermons
   + **passive**, received from God
-+ God **blesses** us, so He must be **pleased** with us?
++ God **blesses** us, so 
+  + He must be **pleased** with us?
 + Parallel in Mt goes even **further**:
 
 ---
@@ -224,12 +236,12 @@ and do many **mighty works** in your name?’
 
 >>>
 + (1) prophesy: **preaching**, teach others
-+ (2) demons: acts of **healing**, counselling
++ (2) demons: acts of **healing**, counsel
   + **service**, volunteering
 + (3) perform **miracles** in Jesus' name
   + not just from **own** strength:
-+ God **answered** our prayers,
-  + so He must be **pleased** with us, right?
++ God **answered** our prayers, so
+  + must be **pleased** with us, right?
 
 ---
 <!-- .slide: <%= bg("unsplash-xCdFXXoZkJc-dark_sky.jpg") %> -->
@@ -248,14 +260,15 @@ But he will say, <br>
 [Ukraine. Paul Itkin](https://unsplash.com/photos/xCdFXXoZkJc "caption")
 
 >>>
-+ "know **you**, where you **come** from": you're a **stranger**
++ "know **you**, where you **come** from": 
+  + You're a **stranger**
 + Forgotten Jesus is a **person**:
   + not **vending machine** of blessing
   + not **cosmic power** I can wield
 + Discipleship means **following** Christ
-  + As 12 disciples **lived** w/, learned from Jesus
-+ Orient whole **life** around the **relationship**
-  + Not just a weekly **dose** added to regular life
+  + 12 discip **lived** w/, learned from 
++ Orient whole **life** around **rl*
+  + Not weekly **dose** added to reg life
 
 ---
 <!-- .slide: <%= bg("unsplash-xCdFXXoZkJc-dark_sky.jpg") %> -->
@@ -310,12 +323,12 @@ that you **believe** in him whom he has **sent**.”
 [John 6:27-29 (ESV) (p.2/2)](# "ref")
 
 >>>
-+ ok so we just **believe** in Jesus, and that's it?
-  + **faith** in action
-+ showing **mercy**:
++ So just **believe** in Jesus?
+  + I **do** already!
++ **Faith** in action: show **mercy**:
   + 13:10-17 daughter of Abraham
   + 14:1-6 rescue cow on Sabbath
-+ **obedience**, full **submission** to Christ
++ **Obedience**, full **submission** to Christ
 
 ---
 <!-- .slide: <%= bg("unsplash--wT0iS-TSZM-Anterne_cross.jpg") %> -->
@@ -333,10 +346,11 @@ he is the one who will **save** it.
 >>>
 + Jesus' **call** to disciples:
   + **Follow** Me
-+ **deny** self: not be **boss** of own life
-+ take up **cross**: put to **death**
++ **Deny** self: 
+  + not be **boss** of own life
++ Take up **cross**: put to **death**
   + what remains of **sinful** nature
-+ emulate the **heart** of Christ: His **love**
++ Emulate the **heart** of Christ: His **love**
   + until our love is **perfected**
 + when we see Him **face** to face:
 
@@ -351,13 +365,13 @@ even as I have been **fully known**.
 [1 Corinthians 13:12 (ESV)](# "ref")
 
 >>>
-+ all the **symbolism** + liturgy of religion
++ All the **symbolism** + liturgy of religion
   + doesn't fully **show** us who God is
   + only a **part**
-+ to **follow** after Christ means
++ To **follow** after Christ means
   + a **relationship** with Him
   + learning His **heart**
-+ not only to **know** of Him
++ Not only to **know** of Him
   + but to be **fully known** by Him
 
 ---
@@ -370,10 +384,10 @@ even as I have been **fully known**.
   + **heard** His Word/teaching
 + prayed and He's **answered**
   + performed **mighty** deeds
-+ But do I have a **relationship** with Jesus?
-  + **believe** in Him, faith in **action**
-  + make Him **boss** over every aspect of life
-  + **strive** to emulate His heart
++ But do I have a **rl** w/Jesus?
+  + **Believe** in Him, faith in **action**
++ **Boss** over every aspect of life
+  + **Strive** to emulate His heart
 
 ---
 <!-- .slide: <%= bg("unsplash-NVnU0WIhC28-door_detail.jpg") %> class="outline" -->
@@ -402,12 +416,12 @@ but you yourselves **cast out**.
 + gnashing (grinding): **despair**
   + from **finality** of judgment
   + and **regret** over lost opportunity
-+ throughout this passage Jesus uses **2nd plural**
-  + not about **others**
-+ not those who **reject** Christ
-  + and **get** exactly what they asked for
-+ but those who **seek** to enter kingdom of God
-  + but never sought to be **known** by the Master
++ **2nd pl**: not them, but **you**
++ Not those who **reject** Christ and
+  + get exactly what they **asked** for
++ But we who **seek** to enter kingdom
+  + but never sought to be 
+  + **known** by the Master
 
 ---
 <!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> -->
@@ -422,17 +436,20 @@ and some are **first** who will be **last**.”
 [Iceland. Davide Cantelli](https://unsplash.com/photos/H3giJcTw__w "caption")
 
 >>>
-+ good or bad news? depends on our **position**
-+ **Humble** ourselves before God, He will **exalt** us
++ Is **gospel** good news or bad news?
+  + Depends on **position** before God
++ **Humble** ourselves before God,
+  + and He will **exalt** us
 + To those who **don't** really want 
-  + to be part of God's kingdom right now:
+  + to be part of God's kingdom now:
 + Whether **angry** at God, or 
-  + just don't feel you **need** Him
-+ **defiance** in eyes, **flush** of heat
-+ **indignance**: I've yielded on so many other things
+  + just don't feel we **need** Him
++ **Defiance** in eyes, **flush** of heat
++ Still poss to **yield** to Him as King?
++ **Indignance**: I've yielded on so many other things
   + I just **can't** yield to God now
   + would be **humiliating**, losing **face**
-+ e.g., JJ: **5min** to calm down, sometimes 5sec
++ JJ: **5min** to calm down, or 5sec
   + then on own admits he was **wrong**
 + We **adults** often need **5mo** or years!
 
@@ -451,16 +468,18 @@ the **Shepherd** and **Overseer** of your souls.
 [Claudio Testa](https://unsplash.com/photos/FrlCwXwbwkk "caption")
 
 >>>
-+ If you haven't **seeking** to find kingdom of God
-  + **encourage** you, it's not too late for you
-+ Christ has **finished** the work which **saves** us
-  + that we might **live** new lives in Him
-+ It's time to **return**: Shepherd + Overseer
-+ **Examine** your heart; you don't want to end up
++ If you haven't been **seeking** 
+  + to find kingdom of God
++ **Encourage** you, it's not too late for you
++ "It is **finished**": work which **saves** us
+  + give us **live** new lives in Him
++ Time to **return**: Shepherd + Overseer
++ **Examine** my heart, lest I 
 
 ---
 <!-- .slide: data-background="white" -->
 # Will I end up on <br> the **outside** of <br> the **banquet** in God's kingdom?
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + **Many** well-intentioned, pious people
@@ -480,15 +499,16 @@ and will not be **able**.
 [Luke 13:24 (ESV)](# "ref")
 
 >>>
-+ We've **assumed** will be entering Your kingdom
-  + that going to **church** is good enough
-  + that **trying** our best to be holy is good enough
-  + that **hearing** Your Word is good enough
-+ We've **replaced** You with 
-  + the **trappings** of mainstream Chr culture
++ We've **assumed** will enter Your kingdom
+  + going to **church** is good enough
+  + **trying** our best to be holy
+  + **hearing** Your Word
++ We've **replaced** You with **trappings**
+  + of mainstream Chr **culture**
 + Bring our **hearts** back to You: 
-  + Father, Rabbi, Master
-+ Be still and **know** You are God
+  + Father, Teacher, Master
++ Both to **know** You,
+  + and be **known** by You
 
 ---
 <!-- .slide: <%= bg("unsplash-NVnU0WIhC28-door_detail.jpg") %> class="empty" -->
